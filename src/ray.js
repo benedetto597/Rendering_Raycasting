@@ -4,6 +4,10 @@ class Ray {
         this.direction = p5.Vector.fromAngle(angle);
     }
 
+    setAngle(angle){
+        this.direction = p5.Vector.fromAngle(angle);
+    }
+
     looAt(x, y){
         // Vector de dirección del ray
         this.direction.x = x - this.position.x;

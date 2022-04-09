@@ -1,6 +1,6 @@
 <div align="center">
 
-![Alt Text](https://i.ytimg.com/vi/58l0SURwYpc/hqdefault.jpg)
+![image](https://drive.google.com/uc?export=view&id=1cRrTFvEG8LH-FKFpWjXIMHyIHzH7WIFZ)
     
 <!-- Encabezado -->
 ## Rendering Raycasting
