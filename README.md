@@ -15,7 +15,7 @@
 [Probar aplicacion](https://rendering-raycasting.vercel.app/)
 
 ### Movimiento del personaje
-![Flechas](http://assets.stickpng.com/images/5a019add7ca233f48ba62759.png)
+![Flechas](https://w7.pngwing.com/pngs/83/537/png-transparent-computer-keyboard-arrow-keys-computer-icons-page-up-and-page-down-keys-arrow-text-rectangle-logo.png)
     
 </div>
 
