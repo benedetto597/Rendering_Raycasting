@@ -12,7 +12,7 @@
 | Edgar Josué Benedetto Godoy | `20171033802` | [Gmail](mailto:ejbg597@gmail.com) |
 
 ## Resultado final
-[Probar aplicacion](https://rendering-raycasting.v)
+[Probar aplicacion](https://rendering-raycasting.v](https://rendering-raycasting.vercel.app/)
 </div>
 
 ### Introducción
