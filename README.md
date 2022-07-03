@@ -15,8 +15,8 @@
 [Probar aplicacion](https://rendering-raycasting.vercel.app/)
 
 ### Movimiento del personaje
-![Flechas](https://ayudaexcel.com/wp-content/uploads/2014/10/flechas-1024x621.png)
-    
+<img src="https://ayudaexcel.com/wp-content/uploads/2014/10/flechas-1024x621.png" width="300px"> </img> 
+
 </div>
 
 ### Introducción
