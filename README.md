@@ -13,6 +13,9 @@
 
 ## Resultado final
 [Probar aplicacion](https://rendering-raycasting.vercel.app/)
+
+### Movimiento del personaje
+![Flechas](http://assets.stickpng.com/images/5a019add7ca233f48ba62759.png)
     
 </div>
 
