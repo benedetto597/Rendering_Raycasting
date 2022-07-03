@@ -15,7 +15,7 @@
 [Probar aplicacion](https://rendering-raycasting.vercel.app/)
 
 ### Movimiento del personaje
-![Flechas](https://w7.pngwing.com/pngs/83/537/png-transparent-computer-keyboard-arrow-keys-computer-icons-page-up-and-page-down-keys-arrow-text-rectangle-logo.png)
+![Flechas](https://ayudaexcel.com/wp-content/uploads/2014/10/flechas-1024x621.png)
     
 </div>
 
